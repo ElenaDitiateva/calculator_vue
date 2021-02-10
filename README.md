@@ -1,1 +1,1 @@
-# calculator_vue
+# calculator on Vue JS
